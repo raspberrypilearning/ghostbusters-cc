@@ -48,6 +48,7 @@ title: What you will learn
 - Understand the need for pauses between actions within loops
 - Use code to generate random numbers in Scratch
 - Add a variable to store a game score in Scratch
+- Understand the skills which are developed towards a career which involves Computing
 
 --- /collapse ---
 
