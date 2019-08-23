@@ -2,7 +2,9 @@
 
 Well done on completing the Ghostbusters project! Do you want to create something a little more challenging?
 
-Try out the [Chatbot](https://projects.raspberrypi.org/en/projects/chatbot?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) project.
+Go to the 'Skills in Careers' activity and then try out next project on the module pathway: 'Chatbot'.
+
+Try out the 'Chatbot' project.
 
 --- no-print ---
 
