@@ -1,14 +1,14 @@
-# GBICi5-Scratch-1-Ghostbusters
+# ghostbusters
 
-![GBICi5-Scratch-1-Ghostbusters](banner.png)
+![ghostbusters](/en/images/banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/GBICi5-Scratch-1-Ghostbusters](https://projects.raspberrypi.org/en/projects/GBICi5-Scratch-1-Ghostbusters)
+Find the project online at [projects.raspberrypi.org/en/projects/ghostbusters](https://projects.raspberrypi.org/en/projects/ghostbusters)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/GBICi5-Scratch-1-Ghostbusters/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/GBICi5-Scratch-1-Ghostbusters/tree/master/en/solutions).
+For solutions and project materials, see [en/resources](https://github.com/raspberrypilearning/ghostbusters/tree/master/en/resources) and  [en/solutions](https://github.com/raspberrypilearning/ghostbusters/tree/master/en/solutions)
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Licence
- See [LICENCE.md](LICENCE.md)
+See [LICENSE.md](LICENSE.md)
