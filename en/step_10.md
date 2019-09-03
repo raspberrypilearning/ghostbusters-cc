@@ -22,3 +22,5 @@ Click on the green flag, and then click on the chatbot character to start a conv
 ![complete project](images/chatbot-preview.png)
 
 --- /print-only ---
+
+![progress bar](images/s1-3.png)
