@@ -1,4 +1,4 @@
-## What next?
+## What have you learned?
 
 Well done on completing the Ghostbusters project! Do you want to create something a little more challenging?
 
@@ -24,3 +24,6 @@ Click on the green flag, and then click on the chatbot character to start a conv
 --- /print-only ---
 
 ![progress bar](images/s1-3.png)
+
+<a href="https://codeclub.org/en/scratch1">
+<img src="images/Clickme.png">
