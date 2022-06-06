@@ -8,7 +8,6 @@ version: 4.1.0
 last_tested: 2018-11-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Animate a ghost
 - title: Random ghosts
 - title: 'Challenge: more randomness'
@@ -20,5 +19,4 @@ steps:
 - title: Add a timer
 - title: 'Challenge: more sprites'
   challenge: true
-  completion: internal
 - title: What have you learned?
